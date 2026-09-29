@@ -8,7 +8,7 @@ of Hertfordshire) · Cambridge Delta · 10 years in software engineering.
 
 ## What I build and run
 
-| | |
+| Company | What it is |
 |---|---|
 | [**Softgen**](https://softgen.co.uk) | The London studio that builds AI applications, SaaS platforms, MVPs and mobile apps. Founder & CTO. |
 | [**Lamp Dating**](https://lampdating.com) | The AI dating app that matches people on personality and values. Co-Founder & CTO. |
