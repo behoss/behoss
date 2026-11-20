@@ -8,6 +8,8 @@
 
 | Company | What it is |
 |---|---|
+| [**GetFreeCarCheck**](https://getfreecarcheck.co.uk) | Free car check UK: full MOT history, mileage, ULEZ, tax and recalls by registration in seconds, from official DVSA data. |
+| [**eSIMology**](https://esimology.com) | Travel eSIMs for 200+ countries: instant data plans from £3.99, delivered by email in a minute. |
 | [**Softgen**](https://softgen.co.uk) | The London studio that builds AI applications, SaaS platforms, MVPs and mobile apps. Founder & CTO. |
 
 ## Open source
