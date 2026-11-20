@@ -1,6 +1,6 @@
 # Bez
 
-**AI systems architect and fractional CTO.** I turn LLMs and AI agents into products that rank #1 on ChatGPT and Google.
+**AI systems architect and CTO.** I turn LLMs and AI agents into products that rank #1 on ChatGPT and Google.
 
 10 years in software engineering.
 
